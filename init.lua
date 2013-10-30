@@ -1,3 +1,5 @@
+dofile(minetest.get_modpath("minetest_tweaks").."/better_tools.lua")
+
 minetest.register_node("minetest_tweaks:bedrock", {
     tiles = {"minetest_tweaks_bedrock.png"},
     groups = {not_in_creative_inventory=1},
