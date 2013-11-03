@@ -1,10 +1,13 @@
+--
 --Bedrock Node
+--
 minetest.register_node("minetest_tweaks:bedrock", {
     tiles = {"minetest_tweaks_bedrock.png"},
     groups = {not_in_creative_inventory=1},
 })
-
+--
 --Generation of Bedrock
+--
 minetest.register_ore({
     ore_type       = "scatter",
     ore            = "minetest_tweaks:bedrock",

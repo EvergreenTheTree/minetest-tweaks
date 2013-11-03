@@ -1,10 +1,13 @@
------------------------Get settings-------------------------------------
+--
+--Get Settings
+--
 dofile(minetest.get_modpath("minetest_tweaks").."/settings.txt")
-------------------------------------------------------------------------
 
 
------------------------Swords-------------------------------------------
 
+--
+--Swords
+--
 minetest.register_tool(":default:sword_wood", {
 	description = "Wooden Sword",
 	inventory_image = "default_tool_woodsword.png",
