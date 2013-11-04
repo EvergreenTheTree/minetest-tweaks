@@ -13,6 +13,13 @@ List of Additions:
 - Swords have better wield scale
 - A bedrock layer now stops the player from digging below -1000
 
+Settings (found in settings.txt):
+BEDROCK_HEIGHT = -1000.0 (changes how deep the bedrock layer is)
+WIELD_X = 1.5
+WIELD_Y = 1.8  (these change the wield scale of the sword)
+WIELD_Z = 0.7
+
+
 License:
 - CC BY-SA 3.0
 See CC_BY-SA_3.0.txt for full license
