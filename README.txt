@@ -1,3 +1,6 @@
+As of 2024-08-17, this mod will probably not be updated by me as I lost interest
+in Minetest a long time ago and probably will probably not be coming back.
+
   __  __ _            _            _     _____                    _        
  |  \/  (_)_ __   ___| |_ ___  ___| |_  |_   _|_      _____  __ _| | _____ 
  | |\/| | | '_ \ / _ \ __/ _ \/ __| __|   | | \ \ /\ / / _ \/ _` | |/ / __|
